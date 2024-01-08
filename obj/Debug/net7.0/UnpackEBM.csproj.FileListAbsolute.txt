@@ -1,0 +1,30 @@
+F:\Documents\VSC projects\UnpackEBM\bin\Debug\net7.0\UnpackEBM.exe
+F:\Documents\VSC projects\UnpackEBM\bin\Debug\net7.0\UnpackEBM.deps.json
+F:\Documents\VSC projects\UnpackEBM\bin\Debug\net7.0\UnpackEBM.runtimeconfig.json
+F:\Documents\VSC projects\UnpackEBM\bin\Debug\net7.0\UnpackEBM.dll
+F:\Documents\VSC projects\UnpackEBM\bin\Debug\net7.0\UnpackEBM.pdb
+F:\Documents\VSC projects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.csproj.AssemblyReference.cache
+F:\Documents\VSC projects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\VSC projects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.AssemblyInfoInputs.cache
+F:\Documents\VSC projects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.AssemblyInfo.cs
+F:\Documents\VSC projects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.csproj.CoreCompileInputs.cache
+F:\Documents\VSC projects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.dll
+F:\Documents\VSC projects\UnpackEBM\obj\Debug\net7.0\refint\UnpackEBM.dll
+F:\Documents\VSC projects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.pdb
+F:\Documents\VSC projects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.genruntimeconfig.cache
+F:\Documents\VSC projects\UnpackEBM\obj\Debug\net7.0\ref\UnpackEBM.dll
+F:\Documents\VSCprojects\UnpackEBM\bin\Debug\net7.0\UnpackEBM.exe
+F:\Documents\VSCprojects\UnpackEBM\bin\Debug\net7.0\UnpackEBM.deps.json
+F:\Documents\VSCprojects\UnpackEBM\bin\Debug\net7.0\UnpackEBM.runtimeconfig.json
+F:\Documents\VSCprojects\UnpackEBM\bin\Debug\net7.0\UnpackEBM.dll
+F:\Documents\VSCprojects\UnpackEBM\bin\Debug\net7.0\UnpackEBM.pdb
+F:\Documents\VSCprojects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.csproj.AssemblyReference.cache
+F:\Documents\VSCprojects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\VSCprojects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.AssemblyInfoInputs.cache
+F:\Documents\VSCprojects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.AssemblyInfo.cs
+F:\Documents\VSCprojects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.csproj.CoreCompileInputs.cache
+F:\Documents\VSCprojects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.dll
+F:\Documents\VSCprojects\UnpackEBM\obj\Debug\net7.0\refint\UnpackEBM.dll
+F:\Documents\VSCprojects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.pdb
+F:\Documents\VSCprojects\UnpackEBM\obj\Debug\net7.0\UnpackEBM.genruntimeconfig.cache
+F:\Documents\VSCprojects\UnpackEBM\obj\Debug\net7.0\ref\UnpackEBM.dll
