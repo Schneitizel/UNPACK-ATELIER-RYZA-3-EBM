@@ -21,6 +21,7 @@ Usage
 In console, type :
 
 `UnpackEBM.exe filename.ebm path`
+
 Example :
 
 `UnpackEBM.exe event_message_mm01_010.ebm "event/event_en"`
@@ -40,4 +41,4 @@ License
 Thanks
 ======
 
-* VitaSmith for his [Gust Tools](hhttps://github.com/VitaSmith/gust_tools) that make it extremely easy to modify Atelier games!
+* VitaSmith for his [Gust Tools](https://github.com/VitaSmith/gust_tools) that make it extremely easy to modify Atelier games!
